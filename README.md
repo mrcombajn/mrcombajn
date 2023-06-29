@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Mateusz
-- Currently working at Sii Poland as QA.
+- Currently working at Sii Poland as QA Engineer.
 
 - 👀 I’m interested in Java.
 - 🌱 Currently learning Spring framework.
