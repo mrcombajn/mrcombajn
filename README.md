@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @mrcombajn
+- 👋 Hi, I'm Mateusz
+- Currently working at Sii Poland as QA.
+
 - 👀 I’m interested in Java.
-- 🌱 I’m currently learning Spring framework and Angular.
+- 🌱 Currently learning Spring framework.
 
 <!---
 mrcombajn/mrcombajn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
