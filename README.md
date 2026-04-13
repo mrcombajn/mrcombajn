@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Mateusz
-- Currently working at .NET Fullstack Developer at NetPC
+- Currently working as Integration Developer
 
 Hobby:
  - repairing motorcycles
